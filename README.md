@@ -1,1 +1,1 @@
-# DiscordRestaurant
+# FoodBot
